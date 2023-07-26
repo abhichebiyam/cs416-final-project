@@ -32,13 +32,13 @@ const tooltipText = svgLineChart.append("text")
   .style("font-family", "Montserrat");
 
 const promises = [
-    d3.csv("../data/closing_stock.csv", function(d) {
+    d3.csv("./data/closing_stock.csv", function(d) {
       return {
         date: d3.timeParse("%Y-%m-%d")(d.date),
         value: +d.value
       };
     }),
-    d3.csv("../data/tvMA_cumulative_perYear.csv", function(d) {
+    d3.csv("./data/tvMA_cumulative_perYear.csv", function(d) {
       return {
         date: d3.timeParse("%Y")(d.release_year),
         value: +d.cumulative_sum
