@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Abhijit Chebiyam's CS 416 Final Project</title>
+    <!-- Include the D3.js library -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/fullpage.css" />
+
+</head>
+<body>
+
+    <div id="fullPage">
+        <div class="section s1">
+            <h1 id="title"> Netflix: A Streaming Content Giant </h1>
+            <h2 id="sub-title"> Made by Abhijit Chebiyam (CS 416)</h2>
+
+        </div>
+
+        <div class="section s2">
+            <h1 id="section-title"> The Bar Chart</h1>
+            <button id="one" onclick="rating('count', 'data/rating_frequency_descending.csv')">Rating</button>
+            <button id="two" onclick="seasons('count', 'data/tvMA_seasons.csv')">Seasons</button>
+            
+
+            <div class="container">
+                <div id="barChart-container"></div>
+                <div id="context-box">
+                  <h1 id="h-one"><u>Context</u></h1>
+                  <p id="p-one">The content-streaming based platform known as Netflix has been very successful 
+                    over the last several years due to its enhanced user experience and the plethora
+                    of options available to customers. However, Netflix's content is based around one audience group much more than any other: TV-MA. 
+                  </p>
+                  <h2 id="h-two"><u>Interactivity</u></h2>
+                  <p id="p-two">Use the "Rating" and "Seasons" buttons to display different bar graphs. A mouseover will
+                    show the bar chart's corresponding axes values. 
+                  </p>
+                </div>
+            </div>
+           
+        </div>
+
+        <div class="section s3">
+            <h1 id="section-title" style="margin-top: 13px;"> The Circle Packing Chart</h1>
+            <div id="circlePacking-container"></div>
+            <div id="context-box">
+                <h1 id="h-one"><u>Context</u></h1>
+                <p id="p-one">Many of these TV-MA rated shows are posted on the platform because it 
+                gives Netflix the ability to switch between PG-13 and R-rated content. When a program is 
+                TV-MA rated that typically means there will be one out of these three topics: cursing, 
+                graph violence, and/or nudity.
+                </p>
+                <h2 id="h-two"><u>Interactivity</u></h2>
+                <p id="p-two">The circle-packing chart enables a user to view the content Netflix
+                has generated for its audience on a global scale. The size of the circle corresponds to the content created
+                by Netflix in that particular division.
+                </p>
+            </div>
+        </div>
+
+        <div class="section s4">
+            <h1 id="section-title" style="margin-top: 13px;"> The Line Chart</h1>
+            <div id="lineChart-container"></div>
+            <div id="context-box">
+                <h1 id="h-one"><u>Context</u></h1>
+                <p id="p-one"> 
+                    TV-MA shows describes 61% of Netflix's content, while 18% is made up of TV-14 content,
+                    and only 16% of the programming is for families. As Netflix's content has tunneled into
+                    personalized content, its stock value has drastically improved over the years.
+                </p>
+                <h2 id="h-two"><u>Interactivity</u></h2>
+                <p id="p-two">The line chart shows the change in Netflix's stock price over the last two 
+                    decades. A user can interact with the line chart to show the cumulative number of 
+                    TV-MA programs released and Netflix's corresponding stock price during that year.
+                </p>
+            </div>
+        </div>
+        
+        <div class="section s5">
+            <h1 id="conclusion-title">Conclusion</h1>
+            <div id="conclusion-container">
+                <div id="conclusion-box">
+                    <h1 id="conclusion-header"> <u>Final Thoughts</u></h1>
+                    <p id="conclusion-body">This project was made possible through the use of D3, D3 annotations,
+                        and Observable. fullpage.js was also utilized to make a fullscreen scrolling website. 
+                        Lastly, I used Python to parse the data that I extracted from Kaggle regarding Netflix
+                        shows and stock price. Through each of these resources I enjoyed making an interactive slideshow that included 
+                        scenes, annotations, parameters and triggers. 
+                    </p>
+                </div>
+                <div id="conclusion-box">
+                    <h1 id="conclusion-header"> <u>Appendix</u> </h1>
+                    <ul id="bullet-list">
+                        <li>“D3.” By Observable | The JavaScript Library for Bespoke Data Visualization, d3js.org/. Accessed 25 July 2023. </li>
+                        <li>Lu, Susie. “Annotation.” D3, d3-annotation.susielu.com/. Accessed 25 July 2023.  </li>
+                        <li>Bostock, Mike. “D3 Gallery.” Observable, 19 July 2023, observablehq.com/@d3/gallery?utm_source=d3js-org&amp;utm_medium=nav&amp;utm_campaign=try-observable. </li>
+                        <li>Nagadia, Meet. “Netflix Stock Price Data Set 2002-2022.” Kaggle, 6 June 2022, www.kaggle.com/datasets/meetnagadia/netflix-stock-price-data-set-20022022. </li>
+                        <li>Bansal, Shivam. “Netflix Movies and TV Shows.” Kaggle, 27 Sept. 2021, www.kaggle.com/datasets/shivamb/netflix-shows?resource=download. </li>
+                        <li>Lopez, Alvaro Trigo. “FullPage Scroll Snapping. Create Full Screen Pages Fast and Simple.” ..Js | One Page Scroll Sections Site Plugin, alvarotrigo.com/fullPage/. Accessed 25 July 2023. </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/4.0.20/fullpage.min.js" integrity="sha512-LGiXf+jHGTHcIybSsOWO3I/in+OObCkcEsWIZ7IyhzfD6RzD5qDUw2CK+JveuI7zTSEcDG//bIOvOpAJW2BWsg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.5.1/d3-annotation.min.js" integrity="sha512-iBAeBWWWFb8HqSBcrqcz98iIpuVH1la39dEYHtyQ/pGpeCQTQVvLJOWAuhv2Q7JSHp9k7hWA7sGxU3hHJe+tFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script>
+        new fullpage('#fullPage', {
+            licenseKey: 'gplv3-license',
+            autoScrolling: true,
+            navigation: true,
+            navigationTooltips: ['Introduction', 'The Bar Chart', 'The Circle Packing Chart', 'The Line Chart', 'Conclusion'],
+            showActiveTooltip: true
+        });
+    </script>    
+
+    <script src="js/circlePacking.js"></script>
+    <script src="js/barChart.js"></script>
+    <script src="js/lineChart.js"></script>
+
+    <script>
+        // Get the chart container element
+        const chartContainer = document.getElementById("circlePacking-container");
+      
+        // Load the JSON data
+        d3.json("../data/circle_packing.json").then(data => {
+          // Call the renderChart function and pass the data
+          chartContainer.appendChild(renderChart(data));
+        });
+    </script>
+
+</body>
+</html>

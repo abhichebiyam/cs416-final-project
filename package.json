@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@observablehq/runtime": "^5.8.2",
+    "type": "module"
+  }
+}

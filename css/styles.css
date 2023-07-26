@@ -1,0 +1,230 @@
+.s1 {
+    background: url('../images/image1.jpg');
+    background-size: cover;
+    color: white;
+}
+
+.s2 {
+    background: url('../images/image2.jpg');
+    background-size: cover;
+    color: black;
+    position: relative;
+}
+
+.s3 {
+    background: url('../images/image3.jpg');
+    background-size: cover;
+    color: black;
+    position: relative;
+}
+
+.s4 {
+    background: url('../images/image4.jpg');
+    background-size: cover;
+    color: black;
+    position: relative;
+}
+
+.s5 {
+    background: url('../images/image5.jpg');
+    background-size: cover;
+    color: white;
+    position: relative;
+}
+
+.s2 h1,
+.s3 h1,
+.s4 h1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 30px;
+}
+
+span{
+    background: white !important;
+}
+
+#title{
+    color: white;
+    font-family: "Montserrat";
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+#sub-title{
+    color: white;
+    font-family: "Montserrat";
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+#section-title{
+    font-family: "Montserrat";
+    font-size: 60px;
+    font-weight: bold;
+    /* margin-left: 60px; */
+}
+
+#conclusion-title{
+    color: white;
+    font-family: "Montserrat";
+    font-size: 60px;
+    margin-left: 780px;
+}
+
+#barChart-container {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 800px; /* Adjust the width based on available space (excluding the rectangle) */
+    height: 823px; /* Adjust the height as desired */
+    margin: 0px 60px 0 0; /* Adjust margin for space from the top and right sides */
+    float: right; /* Make the container float to the right */
+    display: block; /* Use inline-block to place the rectangle and bar chart side by side */
+    overflow: hidden;
+}
+
+#circlePacking-container {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 800px; /* Adjust the width based on available space (excluding the rectangle) */
+    height: 823px; /* Adjust the height as desired */
+    margin: 40px 60px 0 0; /* Adjust margin for space from the top and right sides */
+    float: right; /* Make the container float to the right */
+    display: block; /* Use inline-block to place the rectangle and bar chart side by side */
+    overflow: hidden;
+}
+
+#lineChart-container {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 800px; /* Adjust the width based on available space (excluding the rectangle) */
+    height: 823px; /* Adjust the height as desired */
+    margin: 40px 60px 0 0; /* Adjust margin for space from the top and right sides */
+    float: right; /* Make the container float to the right */
+    display: block; /* Use inline-block to place the rectangle and bar chart side by side */
+    overflow: hidden;
+}
+
+#one {
+    font-size: 30px; /* Adjust the font size as desired */
+    margin-left: 1300px;
+    display: inline-block; /* Use inline-block to ensure vertical-align works */
+    border: 2px solid black; /* Add a black border with 2px width */
+    vertical-align: top; /* Align the button to the top */
+    padding: 20px 10px; /* Adjust the padding as desired */
+    font-family: 'Montserrat';
+}
+
+#two {
+    font-size: 30px; /* Adjust the font size as desired */
+    display: inline-block; /* Use inline-block to ensure vertical-align works */
+    border: 2px solid black; /* Add a black border with 2px width */
+    vertical-align: top; /* Align the button to the top */
+    padding: 20px 10px; /* Adjust the padding as desired */
+    font-family: 'Montserrat';
+    
+}
+
+.axis-title {
+    font-size: 14px;
+    fill: white;
+}
+
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 6px 8px;
+    background: #fff;
+    color: #333;
+    border-radius: 4px;
+    pointer-events: none;
+    font-family: "Montserrat";
+}
+
+#context-box {
+    width: 800px; /* Adjust the width as desired */
+    height: 800px; /* Adjust the height as desired */
+    margin-top: 40px;
+    margin-left: 60px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 2px solid black; /* Add a border with 2px width */
+    padding: 10px; /* Add padding inside the box */
+    position: relative; /* Set position to relative for text positioning */
+}
+
+#conclusion-box {
+    width: 600px; /* Adjust the width as desired */
+    height: 800px; /* Adjust the height as desired */
+    margin-left: 230px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border: 2px solid black; /* Add a border with 2px width */
+}
+
+#conclusion-container {
+    display: flex;
+}
+
+#h-one{
+    color: red;
+    font-family: "Montserrat";
+    font-size: 45px;
+    justify-content: center;
+    display: flex;
+    margin-left: 310px;
+}
+
+#h-two{
+    
+    color: red;
+    font-family: "Montserrat";
+    font-size: 45px;
+    margin-top: -15px;
+    justify-content: center;
+    display: flex;
+}
+
+#p-one{
+    color: white;
+    margin-top: 70px;
+    margin-left: 20px;
+    font-family: "Montserrat";
+    font-size: 30px;
+    line-height: 2;
+}
+
+#p-two{
+    color: white;
+    margin-left: 20px;
+    margin-top: -40px;
+    font-family: "Montserrat";
+    font-size: 30px;
+    line-height: 2;
+}
+
+#conclusion-header{
+    color: red;
+    font-family: "Montserrat";
+    font-size: 45px;
+    justify-content: center;
+    display: flex;
+}
+
+#conclusion-body{
+    color: white;
+    font-family: "Montserrat";
+    font-size: 30px;
+    justify-content: left;
+    display: flex;
+    margin-left: 30px;
+    margin-top: -15px;
+    line-height: 1.9;
+}
+
+#bullet-list{
+    font-family: "Montserrat";
+    font-size: 20px;
+    line-height: 1.7;
+    margin-top: -10px;
+}
+
+

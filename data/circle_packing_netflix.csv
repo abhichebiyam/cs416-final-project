@@ -1,0 +1,1511 @@
+type,country,rating,listed_in,Value
+Movie,United States,PG-13,Documentaries,1
+Movie,United States,PG-13,Comedies,1
+TV Show,India,TV-Y7,Kids' TV,1
+TV Show,United States,TV-PG,Reality TV,1
+TV Show,United Kingdom,TV-Y,Kids' TV,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,R,Thrillers,1
+Movie,United States,TV-MA,Comedies,1
+TV Show,Russia,TV-Y,Kids' TV,1
+TV Show,United States,TV-PG,TV Comedies,1
+Movie,United States,PG-13,Comedies,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,TV-MA,Horror Movies,1
+TV Show,United States,TV-G,Reality TV,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,Italy,TV-Y7,Kids' TV,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,Colombia,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-PG,Reality TV,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,India,TV-MA,TV Shows,1
+Movie,United Kingdom,TV-14,Documentaries,1
+Movie,United States,TV-MA,Horror Movies,1
+Movie,United States,TV-MA,Movies,1
+TV Show,United States,TV-MA,Reality TV,1
+TV Show,United States,TV-14,TV Comedies,1
+TV Show,Italy,TV-Y7,Kids' TV,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,PG-13,Thrillers,1
+Movie,United States,R,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,India,TV-Y7,Children & Family Movies,1
+Movie,India,TV-Y7,Children & Family Movies,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,New Zealand,TV-MA,Dramas,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,United States,TV-PG,Docuseries,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,R,Comedies,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,R,Thrillers,1
+Movie,United States,R,Action & Adventure,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,United States,R,Thrillers,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,R,Dramas,1
+Movie,United States,R,Horror Movies,1
+TV Show,United States,TV-14,TV Comedies,1
+TV Show,Spain,TV-Y,Kids' TV,1
+TV Show,United States,TV-MA,TV Dramas,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,PG-13,Dramas,1
+Movie,Canada,TV-MA,Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-G,Kids' TV,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-G,Reality TV,1
+TV Show,United States,TV-MA,TV Shows,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Horror Movies,1
+TV Show,Denmark,TV-Y7,Kids' TV,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,PG-13,Action & Adventure,1
+TV Show,United Kingdom,TV-Y,Kids' TV,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,PG-13,Thrillers,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,R,Thrillers,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,PG-13,Dramas,1
+Movie,Argentina,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,R,Thrillers,1
+Movie,United States,PG-13,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United Kingdom,TV-Y,Kids' TV,1
+TV Show,United States,TV-MA,TV Dramas,1
+TV Show,United States,TV-14,TV Comedies,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,R,Action & Adventure,1
+TV Show,India,TV-PG,Reality TV,1
+Movie,United States,PG-13,Comedies,1
+Movie,China,TV-MA,Action & Adventure,1
+Movie,United States,TV-14,Comedies,1
+Movie,United States,R,Dramas,1
+Movie,Spain,R,Thrillers,1
+TV Show,Australia,TV-Y,Kids' TV,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,R,Thrillers,1
+TV Show,United States,TV-PG,Docuseries,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,TV-14,Thrillers,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,R,Comedies,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,PG-13,Action & Adventure,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-MA,Comedies,1
+TV Show,United States,TV-G,Kids' TV,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+TV Show,United States,TV-MA,Anime Series,1
+TV Show,Japan,TV-Y7,Kids' TV,1
+Movie,United States,TV-14,Documentaries,1
+Movie,South Africa,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Action & Adventure,1
+TV Show,United States,TV-PG,TV Comedies,1
+TV Show,United Kingdom,TV-MA,Docuseries,1
+Movie,United States,R,Thrillers,1
+Movie,United States,TV-G,Stand-Up Comedy,1
+Movie,United States,PG-13,Stand-Up Comedy,1
+Movie,United States,R,Documentaries,1
+Movie,Germany,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,PG-13,Dramas,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,TV-G,Stand-Up Comedy,1
+Movie,United States,TV-14,Horror Movies,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Children & Family Movies,1
+Movie,United States,TV-14,Thrillers,1
+TV Show,United States,TV-14,TV Comedies,1
+TV Show,United States,TV-14,Reality TV,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,Spain,TV-MA,Stand-Up Comedy,1
+Movie,Mexico,TV-Y7,Children & Family Movies,1
+TV Show,United States,TV-MA,TV Shows,1
+Movie,France,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Documentaries,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,Canada,TV-14,TV Dramas,1
+Movie,United Kingdom,TV-MA,Dramas,1
+Movie,United States,R,Thrillers,1
+Movie,United States,R,Horror Movies,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United States,R,Comedies,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-14,Thrillers,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,R,Action & Adventure,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,United States,R,Thrillers,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-14,Docuseries,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United States,TV-MA,Comedies,1
+TV Show,United States,TV-G,Reality TV,1
+Movie,United States,R,Stand-Up Comedy,1
+Movie,United States,PG-13,Documentaries,1
+Movie,United Kingdom,R,Action & Adventure,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-G,Reality TV,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,TV-MA,Comedies,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Netherlands,TV-14,Music & Musicals,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,R,Comedies,1
+Movie,Canada,R,Action & Adventure,1
+Movie,United States,PG-13,Dramas,1
+Movie,India,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,Reality TV,1
+TV Show,United States,TV-MA,Docuseries,1
+TV Show,United States,TV-14,Reality TV,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,TV-MA,Comedies,1
+Movie,United States,PG-13,Documentaries,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,Iceland,TV-MA,Stand-Up Comedy,1
+Movie,Germany,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-14,Reality TV,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,TV-MA,Comedies,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,United States,R,Thrillers,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-MA,Action & Adventure,1
+Movie,United States,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United Kingdom,R,Horror Movies,1
+Movie,United States,R,Dramas,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,PG,Dramas,1
+TV Show,United States,TV-G,Reality TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Documentaries,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,Canada,TV-G,Romantic Movies,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,TV-14,Thrillers,1
+TV Show,Australia,TV-MA,TV Comedies,1
+TV Show,United States,TV-14,TV Shows,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,R,Comedies,1
+Movie,Germany,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,Canada,PG,Children & Family Movies,1
+TV Show,United States,TV-14,Reality TV,1
+TV Show,United States,TV-14,Docuseries,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,Canada,TV-Y7,Kids' TV,1
+Movie,United States,R,Music & Musicals,1
+Movie,United States,TV-PG,Documentaries,1
+TV Show,United States,TV-MA,Anime Series,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Comedies,1
+TV Show,United States,TV-MA,TV Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-MA,Stand-Up Comedy & Talk Shows,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+Movie,United Kingdom,R,Action & Adventure,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-PG,Children & Family Movies,1
+Movie,United States,R,Action & Adventure,1
+TV Show,United States,TV-14,TV Comedies,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United Kingdom,TV-Y,Children & Family Movies,1
+Movie,United States,TV-MA,Horror Movies,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+Movie,United States,R,Comedies,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-PG,TV Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-PG,TV Comedies,1
+Movie,United States,PG-13,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Action & Adventure,1
+TV Show,United States,TV-PG,Docuseries,1
+TV Show,United States,TV-14,TV Comedies,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,TV-G,Documentaries,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,TV-PG,Documentaries,1
+TV Show,United States,TV-G,Reality TV,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,PG,Children & Family Movies,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,Indonesia,TV-G,Children & Family Movies,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,PG-13,Documentaries,1
+Movie,United States,PG,Documentaries,1
+Movie,United Kingdom,R,Dramas,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,Brazil,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,R,Comedies,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+Movie,United States,TV-MA,Action & Adventure,1
+Movie,United States,PG,Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-MA,Reality TV,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,R,Comedies,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United Kingdom,TV-Y,Children & Family Movies,1
+Movie,United States,R,Action & Adventure,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-14,Comedies,1
+TV Show,Canada,TV-Y7,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,R,Comedies,1
+TV Show,Canada,TV-G,Kids' TV,1
+Movie,United States,R,Action & Adventure,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-G,Children & Family Movies,1
+TV Show,United States,TV-PG,Reality TV,1
+TV Show,United States,TV-Y7,Anime Series,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-MA,Docuseries,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+TV Show,France,TV-Y,Kids' TV,1
+Movie,United States,R,Documentaries,1
+Movie,United States,TV-14,Thrillers,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,Australia,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,R,Action & Adventure,1
+TV Show,United States,TV-PG,Reality TV,1
+TV Show,United States,TV-G,Reality TV,1
+Movie,Brazil,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Comedies,1
+TV Show,France,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-PG,Reality TV,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,Japan,TV-14,Anime Series,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+Movie,India,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,Australia,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,TV Dramas,1
+TV Show,Canada,TV-MA,TV Comedies,1
+Movie,United States,TV-PG,Music & Musicals,1
+TV Show,United States,TV-PG,TV Dramas,1
+TV Show,Australia,TV-Y,Kids' TV,1
+TV Show,Canada,TV-Y,Kids' TV,1
+Movie,United States,TV-14,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,PG,Documentaries,1
+Movie,United States,TV-PG,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-MA,TV Dramas,1
+TV Show,Russia,TV-Y,Kids' TV,1
+Movie,United States,TV-14,Thrillers,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,India,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-MA,Reality TV,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,India,TV-Y,Kids' TV,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,Brazil,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,PG,Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Action & Adventure,1
+Movie,India,TV-Y7,Children & Family Movies,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,Sweden,TV-MA,Stand-Up Comedy,1
+TV Show,Japan,TV-14,Anime Series,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,India,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Thrillers,1
+Movie,United States,R,Action & Adventure,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+Movie,Hungary,TV-Y,Children & Family Movies,1
+Movie,United States,R,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,R,Comedies,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,India,TV-14,Stand-Up Comedy,1
+TV Show,Saudi Arabia,TV-14,TV Shows,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Horror Movies,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,R,Movies,1
+Movie,United Kingdom,TV-PG,Movies,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,India,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,TV-14,Horror Movies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,France,TV-Y,Kids' TV,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Comedies,1
+TV Show,United States,TV-MA,TV Dramas,1
+Movie,United States,TV-MA,Comedies,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,R,Thrillers,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-PG,TV Comedies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-PG,TV Comedies,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Reality TV,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,France,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Comedies,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-Y,Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-PG,Children & Family Movies,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-PG,Dramas,1
+Movie,United Kingdom,TV-MA,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+Movie,Argentina,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Horror Movies,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United Kingdom,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,South Korea,TV-MA,Stand-Up Comedy,1
+Movie,Canada,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-MA,Thrillers,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Comedies,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+Movie,United Kingdom,TV-MA,Action & Adventure,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-G,Documentaries,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United Kingdom,TV-G,Documentaries,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Comedies,1
+Movie,Canada,TV-Y,Children & Family Movies,1
+Movie,Brazil,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Dramas,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-PG,Kids' TV,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Thrillers,1
+Movie,United States,TV-14,Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,France,TV-Y,Kids' TV,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Thrillers,1
+TV Show,United States,TV-PG,Reality TV,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,Malaysia,TV-Y,Kids' TV,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,United States,TV-MA,TV Dramas,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,Italy,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,New Zealand,TV-14,Documentaries,1
+Movie,United States,R,Comedies,1
+TV Show,United Kingdom,TV-PG,Reality TV,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,PG,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Horror Movies,1
+Movie,Italy,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,Brazil,TV-14,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Docuseries,1
+TV Show,Malaysia,TV-PG,Kids' TV,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Comedies,1
+Movie,United States,TV-14,Horror Movies,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-PG,Stand-Up Comedy,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,Canada,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Italy,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Action & Adventure,1
+TV Show,United States,TV-MA,TV Action & Adventure,1
+Movie,United States,TV-MA,Action & Adventure,1
+TV Show,Canada,TV-14,TV Dramas,1
+Movie,United States,PG,Children & Family Movies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,Brazil,TV-PG,Kids' TV,1
+Movie,United States,TV-PG,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-PG,Documentaries,1
+TV Show,United States,TV-PG,TV Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-Y7,Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,Ireland,TV-MA,TV Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,Japan,TV-PG,Movies,1
+Movie,United States,TV-MA,Music & Musicals,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,G,Documentaries,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,Brazil,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Stand-Up Comedy & Talk Shows,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,PG-13,Horror Movies,1
+Movie,United States,TV-MA,Horror Movies,1
+Movie,United Kingdom,TV-MA,Comedies,1
+Movie,United Kingdom,R,Comedies,1
+Movie,United Kingdom,TV-MA,Documentaries,1
+Movie,United Kingdom,TV-14,Comedies,1
+Movie,United Kingdom,TV-MA,Documentaries,1
+Movie,Canada,PG,Children & Family Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,Canada,TV-Y7,Kids' TV,1
+Movie,Brazil,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Canada,TV-MA,Comedies,1
+Movie,United States,TV-14,Comedies,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,South Korea,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-PG,TV Comedies,1
+Movie,United States,TV-MA,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,Australia,TV-PG,Movies,1
+Movie,Australia,TV-14,Comedies,1
+TV Show,Australia,TV-MA,TV Comedies,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Argentina,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Chile,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,United Kingdom,TV-MA,International Movies,1
+Movie,Australia,TV-MA,Stand-Up Comedy,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,TV Dramas,1
+TV Show,United States,TV-14,TV Comedies,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,Argentina,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,Stand-Up Comedy & Talk Shows,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Horror Movies,1
+Movie,France,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Spain,TV-Y,Movies,1
+Movie,United States,TV-Y,Movies,1
+TV Show,France,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-14,Comedies,1
+Movie,Germany,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,Brazil,TV-Y,Children & Family Movies,1
+Movie,United States,TV-PG,Stand-Up Comedy,1
+Movie,United States,TV-PG,Documentaries,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Argentina,TV-MA,Stand-Up Comedy,1
+TV Show,France,TV-PG,Kids' TV,1
+Movie,France,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+TV Show,United Kingdom,TV-14,Docuseries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,Argentina,TV-MA,Stand-Up Comedy,1
+Movie,Chile,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Canada,TV-MA,Movies,1
+Movie,Canada,TV-MA,Movies,1
+Movie,Canada,TV-MA,Movies,1
+Movie,United Kingdom,TV-MA,Movies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Argentina,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-MA,Comedies,1
+Movie,Singapore,TV-MA,Stand-Up Comedy,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,Argentina,TV-MA,Stand-Up Comedy,1
+Movie,Colombia,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,PG-13,Comedies,1
+Movie,Colombia,TV-MA,Stand-Up Comedy,1
+TV Show,Japan,TV-14,TV Shows,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Colombia,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-14,Music & Musicals,1
+TV Show,United States,TV-MA,TV Dramas,1
+Movie,United States,TV-PG,Stand-Up Comedy,1
+Movie,United States,TV-PG,Documentaries,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Documentaries,1
+TV Show,United States,TV-G,Kids' TV,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Action & Adventure,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,France,TV-Y,Kids' TV,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,China,TV-Y7,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Comedies,1
+Movie,Chile,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,TV Dramas,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Comedies,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-14,Action & Adventure,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,India,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,Stand-Up Comedy & Talk Shows,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,Netherlands,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,Brazil,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+Movie,United Kingdom,TV-14,Documentaries,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+TV Show,United States,TV-MA,Stand-Up Comedy & Talk Shows,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+Movie,United Kingdom,TV-14,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Movies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Comedies,1
+TV Show,Australia,TV-Y,Kids' TV,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Comedies,1
+Movie,United States,R,Stand-Up Comedy,1
+Movie,United States,TV-MA,Comedies,1
+TV Show,United States,TV-MA,TV Dramas,1
+Movie,United States,74 min,Movies,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Brazil,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-Y,Kids' TV,1
+TV Show,Australia,TV-MA,Reality TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,Mexico,TV-Y7,Kids' TV,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+Movie,Italy,TV-MA,Stand-Up Comedy,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,France,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-MA,Dramas,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-PG,Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Germany,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Austria,TV-14,Documentaries,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Comedies,1
+Movie,United States,TV-MA,Music & Musicals,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,New Zealand,TV-MA,Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,84 min,Movies,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United Kingdom,TV-14,Documentaries,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,66 min,Movies,1
+Movie,United Kingdom,TV-14,Documentaries,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-PG,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United Kingdom,TV-14,Documentaries,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,Canada,R,Action & Adventure,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,Canada,TV-Y,Kids' TV,1
+Movie,United Kingdom,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+TV Show,United States,TV-14,Docuseries,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,Mexico,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Movies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Stand-Up Comedy,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+TV Show,France,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Movies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,PG,Documentaries,1
+Movie,United States,TV-14,Dramas,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-14,Dramas,1
+Movie,United States,TV-14,Dramas,1
+Movie,United States,TV-PG,Dramas,1
+Movie,United States,TV-PG,Dramas,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-14,Dramas,1
+Movie,United States,TV-MA,Horror Movies,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,R,Dramas,1
+Movie,United Kingdom,TV-PG,Sports Movies,1
+Movie,United States,NR,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,PG-13,Comedies,1
+Movie,United Kingdom,TV-14,Sci-Fi & Fantasy,1
+Movie,United States,R,Comedies,1
+Movie,United Kingdom,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,India,TV-14,TV Shows,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,R,Thrillers,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,PG-13,Documentaries,1
+Movie,Canada,NR,Stand-Up Comedy,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,PG,Children & Family Movies,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,Canada,TV-MA,Horror Movies,1
+Movie,United States,R,Action & Adventure,1
+Movie,Canada,R,Action & Adventure,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,NR,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United Kingdom,TV-MA,Dramas,1
+Movie,United States,R,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,R,Horror Movies,1
+Movie,United Kingdom,R,Action & Adventure,1
+Movie,United States,TV-G,Children & Family Movies,1
+TV Show,United Kingdom,TV-Y,Kids' TV,1
+Movie,United States,TV-G,Documentaries,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,Canada,TV-MA,Thrillers,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,TV-PG,Children & Family Movies,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,NR,Documentaries,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+Movie,United States,TV-14,Dramas,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-Y,Children & Family Movies,1
+TV Show,Italy,TV-Y,Kids' TV,1
+TV Show,Russia,TV-Y,Kids' TV,1
+TV Show,Canada,TV-PG,Docuseries,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,PG,Documentaries,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,TV-G,Children & Family Movies,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Comedies,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,R,Action & Adventure,1
+Movie,Denmark,TV-MA,Documentaries,1
+Movie,United States,NR,Stand-Up Comedy,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-MA,Action & Adventure,1
+Movie,United States,PG-13,Documentaries,1
+Movie,United States,PG-13,Thrillers,1
+Movie,United States,R,Dramas,1
+Movie,United States,R,Comedies,1
+Movie,Canada,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,Canada,TV-G,Children & Family Movies,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,Australia,TV-PG,Reality TV,1
+Movie,Brazil,PG,Children & Family Movies,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,PG-13,Comedies,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,Canada,TV-MA,Docuseries,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,PG,Dramas,1
+Movie,India,TV-Y7,Children & Family Movies,1
+TV Show,United States,TV-MA,Docuseries,1
+TV Show,Malaysia,TV-Y7,Kids' TV,1
+Movie,United States,TV-PG,Dramas,1
+Movie,United States,TV-MA,Comedies,1
+Movie,United States,TV-PG,Documentaries,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,United States,PG,Children & Family Movies,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,R,Documentaries,1
+Movie,United States,PG,Dramas,1
+Movie,United States,PG-13,Action & Adventure,1
+Movie,United States,R,Documentaries,1
+Movie,United Kingdom,TV-MA,Comedies,1
+Movie,United States,R,Comedies,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,R,Stand-Up Comedy,1
+Movie,United States,TV-14,Thrillers,1
+TV Show,India,TV-PG,International TV Shows,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+TV Show,United States,TV-MA,Stand-Up Comedy & Talk Shows,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-14,Thrillers,1
+Movie,United States,TV-PG,Children & Family Movies,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-G,Documentaries,1
+Movie,United States,TV-PG,Dramas,1
+Movie,United States,PG-13,Comedies,1
+Movie,United Kingdom,TV-14,Documentaries,1
+TV Show,Brazil,TV-Y,Kids' TV,1
+Movie,United States,PG,Dramas,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United Kingdom,TV-G,Documentaries,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-14,Comedies,1
+Movie,United States,R,Thrillers,1
+Movie,United States,TV-14,Thrillers,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,NR,Documentaries,1
+TV Show,United States,TV-G,Reality TV,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United Kingdom,TV-MA,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,G,Children & Family Movies,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,PG,Documentaries,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,India,TV-PG,Dramas,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Dramas,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,Australia,R,Thrillers,1
+Movie,United States,R,Independent Movies,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,R,Thrillers,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,NR,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Thrillers,1
+Movie,United States,TV-14,Dramas,1
+Movie,United States,TV-MA,Horror Movies,1
+Movie,United States,TV-MA,Action & Adventure,1
+TV Show,Canada,TV-PG,Reality TV,1
+TV Show,United States,TV-PG,TV Dramas,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,NR,Documentaries,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,PG,Dramas,1
+Movie,United States,R,Dramas,1
+Movie,United States,NR,Comedies,1
+Movie,United States,R,Comedies,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,Canada,R,Action & Adventure,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United Kingdom,R,Action & Adventure,1
+Movie,United States,PG-13,Comedies,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,NR,Stand-Up Comedy,1
+Movie,United States,PG,Documentaries,1
+TV Show,United Kingdom,TV-MA,Reality TV,1
+Movie,United States,TV-14,Comedies,1
+Movie,Canada,TV-PG,Documentaries,1
+TV Show,United States,TV-G,Reality TV,1
+Movie,United States,PG-13,Documentaries,1
+TV Show,Russia,TV-Y7,Kids' TV,1
+Movie,United States,PG,Documentaries,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United Kingdom,TV-MA,Thrillers,1
+Movie,United States,NR,Stand-Up Comedy,1
+TV Show,United States,TV-14,Docuseries,1
+TV Show,United States,TV-PG,Docuseries,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,United States,R,Stand-Up Comedy,1
+Movie,United States,R,Stand-Up Comedy,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-MA,Action & Adventure,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-MA,Action & Adventure,1
+Movie,United States,R,Thrillers,1
+Movie,United Kingdom,TV-G,Documentaries,1
+Movie,India,TV-Y7,Children & Family Movies,1
+Movie,United States,NR,Horror Movies,1
+Movie,United States,TV-MA,Music & Musicals,1
+Movie,United States,R,Documentaries,1
+Movie,Hong Kong,R,Action & Adventure,1
+Movie,United States,TV-Y,Children & Family Movies,1
+Movie,United States,TV-Y,Movies,1
+Movie,United States,TV-Y,Movies,1
+TV Show,United States,TV-PG,Docuseries,1
+TV Show,Denmark,TV-Y,Kids' TV,1
+TV Show,Canada,TV-PG,Reality TV,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,TV-14,Thrillers,1
+Movie,United States,PG-13,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,R,Comedies,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Horror Movies,1
+TV Show,United States,TV-14,Docuseries,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,R,Stand-Up Comedy,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,Canada,TV-PG,Dramas,1
+Movie,United Kingdom,TV-14,Documentaries,1
+TV Show,Australia,TV-PG,Reality TV,1
+TV Show,France,TV-G,Kids' TV,1
+TV Show,United States,TV-PG,Reality TV,1
+Movie,Japan,PG-13,Anime Features,1
+Movie,United States,TV-14,Romantic Movies,1
+Movie,United States,NR,Documentaries,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-G,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+TV Show,Canada,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,R,Comedies,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,PG-13,Comedies,1
+Movie,France,PG,Children & Family Movies,1
+Movie,Italy,,Dramas,1
+Movie,United Kingdom,TV-MA,Documentaries,1
+Movie,United States,PG-13,Dramas,1
+Movie,Ireland,TV-MA,Horror Movies,1
+Movie,United States,TV-MA,Stand-Up Comedy,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-G,Documentaries,1
+Movie,United States,R,Comedies,1
+Movie,United States,TV-G,Documentaries,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,United States,NR,Documentaries,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-G,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-G,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-G,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-G,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-G,Movies,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-PG,Docuseries,1
+TV Show,France,TV-Y,Kids' TV,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,TV-MA,Documentaries,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,United Kingdom,TV-MA,Action & Adventure,1
+Movie,United States,R,Dramas,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,R,Thrillers,1
+TV Show,Canada,TV-14,Docuseries,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,R,Action & Adventure,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,TV-PG,Movies,1
+Movie,Canada,TV-MA,Documentaries,1
+Movie,United States,R,Thrillers,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Romantic Movies,1
+TV Show,United States,TV-14,TV Shows,1
+Movie,United States,TV-14,Dramas,1
+TV Show,United States,TV-14,TV Comedies,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,TV-Y7,Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Movies,1
+Movie,United States,TV-Y7,Movies,1
+Movie,United States,TV-Y7,Movies,1
+TV Show,United States,TV-Y7,Kids' TV,1
+TV Show,United States,TV-Y7,Kids' TV,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,NR,Documentaries,1
+Movie,Canada,TV-MA,Documentaries,1
+Movie,United Kingdom,R,Action & Adventure,1
+Movie,United States,PG,Children & Family Movies,1
+Movie,United States,NR,Documentaries,1
+Movie,United States,NR,Documentaries,1
+Movie,Canada,TV-MA,Dramas,1
+Movie,Australia,TV-MA,Horror Movies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,R,Dramas,1
+Movie,United States,TV-14,Thrillers,1
+Movie,United States,NR,Stand-Up Comedy,1
+Movie,United States,PG-13,Action & Adventure,1
+TV Show,United States,TV-G,Reality TV,1
+Movie,United States,R,Dramas,1
+Movie,United States,PG,Children & Family Movies,1
+Movie,United States,TV-PG,Children & Family Movies,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,TV-MA,Action & Adventure,1
+Movie,United Kingdom,TV-14,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+TV Show,Canada,TV-MA,TV Comedies,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,PG-13,Horror Movies,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-Y,Movies,1
+Movie,Australia,TV-Y,Movies,1
+Movie,Australia,TV-Y,Movies,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,TV-MA,Horror Movies,1
+TV Show,United States,TV-14,Reality TV,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,R,Thrillers,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United Kingdom,NR,Documentaries,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United Kingdom,TV-14,Documentaries,1
+TV Show,United States,TV-Y,Kids' TV,1
+Movie,United States,TV-14,Thrillers,1
+Movie,Canada,R,Action & Adventure,1
+Movie,United States,R,Comedies,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,TV-PG,Documentaries,1
+TV Show,India,TV-Y,Kids' TV,1
+Movie,India,TV-Y7,Children & Family Movies,1
+Movie,United States,PG-13,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-G,Documentaries,1
+TV Show,United States,TV-PG,Kids' TV,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,India,TV-MA,TV Shows,1
+TV Show,United States,TV-14,TV Comedies,1
+TV Show,United States,TV-MA,Docuseries,1
+Movie,Canada,TV-Y7,Children & Family Movies,1
+Movie,United States,PG,Children & Family Movies,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-14,Dramas,1
+Movie,United Kingdom,TV-MA,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-MA,Horror Movies,1
+Movie,United States,TV-14,Documentaries,1
+Movie,Australia,TV-MA,Dramas,1
+TV Show,Japan,TV-14,Anime Series,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,R,Dramas,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,PG,Comedies,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United Kingdom,TV-MA,Horror Movies,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,United States,R,Comedies,1
+TV Show,United States,TV-MA,TV Comedies,1
+Movie,United States,R,Horror Movies,1
+Movie,Canada,TV-MA,Documentaries,1
+Movie,United States,PG-13,Dramas,1
+Movie,Canada,TV-MA,Horror Movies,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,TV-14,Documentaries,1
+Movie,Denmark,TV-G,Children & Family Movies,1
+Movie,United States,R,Dramas,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,New Zealand,TV-MA,Dramas,1
+TV Show,United States,TV-MA,Docuseries,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United States,PG,Children & Family Movies,1
+TV Show,United States,TV-14,TV Comedies,1
+Movie,United States,R,Action & Adventure,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,G,Children & Family Movies,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,PG-13,Dramas,1
+TV Show,United States,TV-14,Reality TV,1
+Movie,United States,PG-13,Action & Adventure,1
+Movie,United States,PG-13,Thrillers,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,TV-G,Documentaries,1
+Movie,United States,R,Documentaries,1
+TV Show,United States,TV-PG,Docuseries,1
+Movie,United States,TV-MA,Dramas,1
+Movie,United States,PG-13,Dramas,1
+TV Show,United States,TV-14,Docuseries,1
+TV Show,United States,TV-14,Docuseries,1
+Movie,United States,TV-14,Thrillers,1
+Movie,United States,R,Horror Movies,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United Kingdom,TV-G,Documentaries,1
+Movie,United States,R,Thrillers,1
+Movie,United Kingdom,TV-MA,Comedies,1
+Movie,United States,R,Thrillers,1
+Movie,United States,PG-13,Documentaries,1
+TV Show,United States,TV-MA,Docuseries,1
+TV Show,United States,TV-14,Docuseries,1
+TV Show,United States,TV-14,TV Dramas,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+Movie,Canada,TV-14,Thrillers,1
+Movie,Canada,TV-PG,Documentaries,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,G,Children & Family Movies,1
+TV Show,United States,TV-MA,Reality TV,1
+Movie,United States,NR,Comedies,1
+Movie,United States,PG-13,Action & Adventure,1
+Movie,Canada,TV-PG,Documentaries,1
+Movie,United Kingdom,R,Dramas,1
+Movie,United States,TV-MA,Action & Adventure,1
+Movie,United States,R,Dramas,1
+Movie,United States,R,Horror Movies,1
+Movie,United Kingdom,TV-MA,Thrillers,1
+Movie,United States,TV-MA,Documentaries,1
+Movie,United States,R,Action & Adventure,1
+TV Show,United States,TV-G,Kids' TV,1
+Movie,United States,PG-13,Action & Adventure,1
+Movie,United States,TV-14,Documentaries,1
+Movie,United States,PG-13,Dramas,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United Kingdom,TV-MA,Dramas,1
+Movie,United States,R,Dramas,1
+Movie,United Kingdom,TV-PG,Documentaries,1
+Movie,United States,PG,Documentaries,1
+Movie,United States,TV-14,Thrillers,1
+Movie,United States,TV-Y7,Children & Family Movies,1
+Movie,United Kingdom,TV-14,Documentaries,1
+TV Show,United States,TV-PG,TV Dramas,1
+Movie,United States,R,Comedies,1
+Movie,United Kingdom,TV-14,Documentaries,1
+Movie,United States,TV-PG,Documentaries,1
+TV Show,United States,TV-G,Reality TV,1
+Movie,United States,TV-PG,Documentaries,1
+Movie,United States,PG-13,Action & Adventure,1
+Movie,United States,PG-13,Action & Adventure,1
+Movie,United Kingdom,TV-G,Children & Family Movies,1
