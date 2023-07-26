@@ -128,7 +128,7 @@
         const chartContainer = document.getElementById("circlePacking-container");
       
         // Load the JSON data
-        d3.json("../data/circle_packing.json").then(data => {
+        d3.json("data/circle_packing.json").then(data => {
           // Call the renderChart function and pass the data
           chartContainer.appendChild(renderChart(data));
         });
